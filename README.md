@@ -1,6 +1,6 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma
+# SensAI - Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma
 
-Taken Help From - ## https://youtu.be/UbXpRv5ApKA 
+##Taken Help From - ## https://youtu.be/UbXpRv5ApKA 
 
 ![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
 
